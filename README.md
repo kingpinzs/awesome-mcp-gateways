@@ -43,6 +43,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [MintMCP](https://mintmcp.com) - Enterprise MCP gateway with one-click deploys, OAuth/SSO, monitoring, and real-time security guardrails.
 - [Onbox](https://onbox.ai) - Unified context for AI agents.
 - [Peta](https://peta.io) - 1Password for AI Agents : a self-hosted MCP vault + gateway (with HITL approvals)
+- [PolicyLayer](https://policylayer.com) - Hosted gateway for your MCP servers that applies deterministic rules to every tool call, outside the LLM reasoning loop, so your agents can only do what you allow.
 - [Rube](https://rube.composio.dev) - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion.
 - [Runlayer](https://www.runlayer.com) - The Simpler, Safer Way to Connect MCPs.
 - [Scalekit](https://www.scalekit.com/agentic-actions) - A secure tool-calling layer for agents to act on behalf of users across external tools (Gmail, Calendar, Slack, Notion, etc.) with user-consented delegation and built-in token vaulting.
