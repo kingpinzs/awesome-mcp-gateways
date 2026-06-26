@@ -2,6 +2,9 @@
 
 A list of awesome MCP Gateway Products. [Open a pull request](https://github.com/e2b-dev/awesome-mcp-gateways/pulls) to contribute.
 
+> [!NOTE]  
+> We're not accepting any crypto of finance-related entries at the time.
+
 ## Open-source MCP Gateways
 
 200 stars and 2 contributors or more.
